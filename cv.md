@@ -6,7 +6,7 @@
 ## Contact Information
 - **Email:** iurii3460@gmail.com
 - **Phone:** +995 595 991 028
-- **Location:** [Tbilisi, Geargia]
+- **Location:** [Tbilisi, Georgia]
 - **GitHub:** [https://github.com/iurii3460-rgb](https://github.com/iurii3460-rgb)
 ---
 
