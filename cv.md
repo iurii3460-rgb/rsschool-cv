@@ -1,22 +1,17 @@
 
 # Yuri Vyacheslavovich Boltykov
 
-![Avatar](https://via.placeholder.com/150 "Your Photo")
-
 ---
 
 ## Contact Information
 - **Email:** iurii3460@gmail.com
-- **Phone:** +7 (XXX) XXX-XX-XX
-- **Location:** [Your City, Country]
+- **Phone:** +995 595 991 028
+- **Location:** [Tbilisi, Geargia]
 - **GitHub:** [https://github.com/iurii3460-rgb](https://github.com/iurii3460-rgb)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Discord:** your_discord_nickname
-
 ---
 
 ## Brief Self-Introduction
-Motivated and detail-oriented Frontend Developer with a passion for creating modern, responsive web applications using React. My goal is to become a highly skilled developer, contribute to impactful projects, and continuously improve my skills. I am eager to learn new technologies and work in a collaborative team environment. [Add your work experience or learning goals here.]
+Motivated and detail-oriented Frontend Developer with a passion for creating modern, responsive web applications using React. My goal is to become a highly skilled developer, contribute to impactful projects, and continuously improve my skills. I am eager to learn new technologies and work in a collaborative team environment.
 
 ---
 
@@ -39,34 +34,18 @@ function positiveSum(arr) {
 	return arr.filter(x => x > 0).reduce((a, b) => a + b, 0);
 }
 ```
-
----
-
-## Work Experience
-- **[Project Name]**  
-	[Short description of the project, technologies used, your role]  
-	[GitHub link or project page]
-- **[Project Name]**  
-	[Short description of the project, technologies used, your role]  
-	[GitHub link or project page]
-- *This CV is my first project. Source code: [GitHub](https://github.com/iurii3460-rgb/rsschool-cv)*
-
 ---
 
 ## Education
-- **[Your Degree, e.g., Bachelor of Computer Science]**  
-	[Your University], [City, Country]  
-	[Year of Graduation]
+	CHGAKI, Chelyabinsk, Russia  
+	2005
 - **Completed Courses:**
-	- [Course Name], [Platform/School], [Year]
-	- [Course Name], [Platform/School], [Year]
+	- React, learn.javaScript.ru, 2023
 
 ---
 
 ## English Language
-- **Level:** [Your English Level, e.g., Intermediate]
-- **Practice:** [Describe your English practice, e.g., communication in international teams, online courses, etc.]
+- **Level:**  Intermediate
+- **Practice:** englex.ru
 
 ---
-
-*This CV was generated for the RSSchool Frontend course. Please update the placeholders with your real data.*
